@@ -12,5 +12,8 @@
 
 ul li a{
 	text-decoration:none;
+}
+
+ul li{
 	margin-right:1rem; 
 }
